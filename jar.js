@@ -141,7 +141,7 @@ function drawEverything() {
 	ctx.fillText("Jar of Kinks", 20, 55);
 	ctx.textAlign = "end";
 	ctx.font = "18px Roboto";
-	ctx.fillText("Create your own at codedcells.github.io/kinkjars", 880, 45);
+	ctx.fillText("Copied from CodedCells. Create your own at codedcells.github.io/kinkjars", 880, 45);
 	
 	i = 0;
 	for (var n in jars) {
