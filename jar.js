@@ -63,8 +63,8 @@ var jars = [
 	["Sounding/\nurethral play", 0], 
 	["Needleplay/\nsharps", 0], 
 	["Breast/Nipple\nTorture", 0], 
-	["Foot worship", 0]
-	["Tickling", 0]
+	["Foot worship", 0],
+	["Tickling", 0],
 ];
 
 function drawJar(name, value, gridI, sel) {
