@@ -29,7 +29,7 @@ var mouseY = 0;
 var hoverlast = -1;
 
 var jars = [
-	["Spanking /\nImpact Play", 0], 
+	["Impact Play", 0], 
 	["Wax Play", 0], 
 	["Electroplay", 0], 
 	["CNC/Free-use", 0], 
@@ -51,7 +51,6 @@ var jars = [
 	["Maid/servant", 0], 
 	["Monsterfucking", 0], 
 	["Tentacles", 0], 
-	["Oviposition", 0], 
 	["Bondage", 0], 
 	["Latex", 0],  
 	["Denial /\nChastity", 0], 
