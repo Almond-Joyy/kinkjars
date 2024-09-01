@@ -46,7 +46,7 @@ var jars = [
 	["Musk", 0], 
 	["Sensory\nDeprivation", 0], 
 	["Vaginal/Anal\nTraining", 0], 
-	["Fisting", 0],
+	["Fisting", 0], 
 	["Hypnosis", 0], 
 	["Maid/servant", 0], 
 	["Monsterfucking", 0], 
@@ -72,7 +72,6 @@ var jars = [
 	["Spitplay", 0],
 	["Hucow/Milking", 0],
 	["Somnophilia", 0],
-	
 ];
 
 function drawJar(name, value, gridI, sel) {
