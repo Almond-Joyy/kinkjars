@@ -38,7 +38,8 @@ var jars = [
 	["Breeding", 0], 
 	["Dollification", 0], 
 	["Bimboification", 0], 
-	["Dronification", 0], 
+	["Dronification", 0],
+	["Petplay", 0],
 	["Cock/pussy\nworship", 0], 
 	["Cuckhold /\nCuckqueaning", 0], 
 	["Musk", 0], 
@@ -50,8 +51,7 @@ var jars = [
 	["Tentacles", 0], 
 	["Oviposition", 0], 
 	["Bondage", 0], 
-	["Latex", 0], 
-	["Stuffing", 0], 
+	["Latex", 0],  
 	["Denial /\nChastity", 0], 
 	["Breathplay /\nBlood constriction", 0], 
 	["Orgasm Control /\nEdging", 0], 
@@ -64,7 +64,10 @@ var jars = [
 	["Needleplay/\nsharps", 0], 
 	["Breast/Nipple\nTorture", 0], 
 	["Foot worship", 0],
-	["Petplay", 0],
+	["Exhibitionism/\nVoyeurism", 0],
+	["Primal", 0],
+	["Cumplay", 0],
+	["Spitplay", 0],
 ];
 
 function drawJar(name, value, gridI, sel) {
