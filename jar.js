@@ -35,6 +35,7 @@ var jars = [
 	["CNC/Free-use", 0], 
 	["Humiliation", 0], 
 	["Degradation", 0], 
+	["Sadomasochism", 0], 
 	["Breeding", 0], 
 	["Dollification", 0], 
 	["Bimboification", 0], 
@@ -45,6 +46,7 @@ var jars = [
 	["Musk", 0], 
 	["Sensory\nDeprivation", 0], 
 	["Vaginal/Anal\nTraining", 0], 
+	["Fisting", 0],
 	["Hypnosis", 0], 
 	["Maid/servant", 0], 
 	["Monsterfucking", 0], 
@@ -68,6 +70,9 @@ var jars = [
 	["Primal", 0],
 	["Cumplay", 0],
 	["Spitplay", 0],
+	["Hucow/Milking", 0],
+	["Somnophilia", 0],
+	
 ];
 
 function drawJar(name, value, gridI, sel) {
